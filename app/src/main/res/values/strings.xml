@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="cookies_1_d">Cookies %1$d</string>
+    <string name="newScore" />
+    <string name="yourCookies">cookies</string>
+    <string name="youCookies">Cookies %1$d</string>
+    <string name="yourScore">\@string/youCookies</string>
+    <string name="yourCookieScore">Cookies: %1$d</string>
+</resources>
